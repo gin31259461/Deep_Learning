@@ -1,0 +1,11 @@
+wcwidth
+pandas
+numpy
+matplotlib
+setuptools
+torch
+torchvision
+tensorflow
+# tensorflow-datasets
+ipywidgets
+jupyter
