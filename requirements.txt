@@ -10,3 +10,5 @@ tensorflow
 ipywidgets
 jupyter
 keras
+tqdm
+scikit-learn
