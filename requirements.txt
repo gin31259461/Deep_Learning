@@ -5,13 +5,15 @@ matplotlib
 setuptools
 torch
 torchvision
+
+# keras
+# tensorflow
 # tensorflow-datasets
-keras
-tensorflow
+
+# This is includes needed packages: tensorflow, keras
+tensorflow-directml-plugin
+
 ipywidgets
 jupyter
 tqdm
 scikit-learn
-# This package is includes keras
-# plaidml-keras
-# plaidbench

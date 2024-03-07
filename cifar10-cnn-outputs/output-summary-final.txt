@@ -3,6 +3,6 @@ learning_rate:       0.001
 num_epochs:          100
 num_classes:         10
 validation_split:    0.0
-training accuracy:   0.9094399809837341
-training loss:       0.2683388888835907
+training accuracy:   0.9078799486160278
+training loss:       0.27256879210472107
 feature:             ['batch normalization', 'dropout', 'add more layers', 'fit all training data with no validation split']

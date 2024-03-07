@@ -1,0 +1,10 @@
+batch_size:          64
+learning_rate:       0.001
+num_epochs:          100
+num_classes:         10
+validation_split:    0.1
+training accuracy:   0.8845778107643127
+training loss:       0.33974650502204895
+validation accuracy:  0.8694999814033508
+validation loss:     0.3845970630645752
+feature:             ['batch normalization', 'dropout', 'add more layers', 'image augmentation']
