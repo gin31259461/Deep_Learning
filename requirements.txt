@@ -17,3 +17,5 @@ ipywidgets
 jupyter
 tqdm
 scikit-learn
+
+nltk
