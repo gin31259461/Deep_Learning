@@ -1,7 +1,9 @@
+matplotlib
+seaborn
+
 wcwidth
 pandas
 numpy
-matplotlib
 setuptools
 torch
 torchvision
