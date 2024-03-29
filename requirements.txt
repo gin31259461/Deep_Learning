@@ -8,12 +8,13 @@ setuptools
 torch
 torchvision
 
-# keras
-# tensorflow
-# tensorflow-datasets
 
 # This is includes needed packages: tensorflow, keras
 tensorflow-directml-plugin
+
+# tensorflow
+# keras
+# tensorflow-datasets
 
 ipywidgets
 jupyter
@@ -21,3 +22,7 @@ tqdm
 scikit-learn
 
 nltk
+
+# tf2onnx
+# onnxruntime-gpu
+# onnxruntime-directml
