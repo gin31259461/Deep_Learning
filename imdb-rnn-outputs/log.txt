@@ -14,3 +14,40 @@ learning_rate = 0.001
 
 training 1
 -------------------------------------------------
+
+# sequence preprocessing parameters
+start_char = 1
+oov_char = 2
+index_from = 3
+max_num_words = 5000
+max_sequence_length = 240
+
+# training parameters
+training = True
+use_cuDNN = True
+num_epochs = 10
+batch_size = 32
+validation_split = 0.1
+learning_rate = 0.001
+
+training 2
+-------------------------------------------------
+
+# sequence preprocessing parameters
+start_char = 1
+oov_char = 2
+index_from = 3
+max_num_words = 5000
+max_sequence_length = 140
+
+# training parameters
+training = True
+use_cuDNN = True
+embedding_dim = 32
+num_epochs = 10
+batch_size = 32
+validation_split = 0.1
+learning_rate = 0.001
+
+training 3
+-------------------------------------------------
