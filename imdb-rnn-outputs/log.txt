@@ -70,3 +70,22 @@ learning_rate = 0.001
 
 training 4
 -------------------------------------------------
+
+# sequence preprocessing parameters
+start_char = 1
+oov_char = 2
+index_from = 3
+max_num_words = 10000
+max_sequence_length = 500
+
+# training parameters
+training = True
+use_cuDNN = True
+embedding_output_dim = 32
+num_epochs = 10
+batch_size = 64
+validation_split = 0.2
+learning_rate = 0.001
+
+training 5
+-------------------------------------------------
