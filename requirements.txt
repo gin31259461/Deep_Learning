@@ -1,13 +1,18 @@
+# plot library
 matplotlib
 seaborn
 
+# for chinese words
 wcwidth
+
+# data processing
 pandas
 numpy
+
+# machine learning
 setuptools
 torch
 torchvision
-
 
 # This is includes needed packages: tensorflow, keras
 tensorflow-directml-plugin
@@ -16,13 +21,18 @@ tensorflow-directml-plugin
 # keras
 # tensorflow-datasets
 
-ipywidgets
-jupyter
-tqdm
 scikit-learn
 
+# for jupyter notebook
+ipywidgets
+jupyter
+
+# sequence processing
 nltk
 
-# tf2onnx
-# onnxruntime-gpu
-# onnxruntime-directml
+
+# hugging face
+datasets
+
+# image processing
+pillow
