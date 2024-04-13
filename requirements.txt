@@ -30,9 +30,12 @@ jupyter
 # sequence processing
 nltk
 
-
 # hugging face
 datasets
+transformers
+
+# google
+sentencepiece
 
 # image processing
 pillow
