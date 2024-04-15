@@ -1,2 +1,4 @@
 .venv
 data
+
+models/beit3/*.pth

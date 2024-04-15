@@ -11,8 +11,12 @@ numpy
 
 # machine learning
 setuptools
-torch
-torchvision
+# This is includes needed packages: torch, torchvision
+# Ref. https://stackoverflow.com/questions/63008040/how-to-use-amd-gpu-for-fastai-pytorch
+torch-directml
+# torch
+# torchvision
+torchscale
 
 # This is includes needed packages: tensorflow, keras
 tensorflow-directml-plugin
