@@ -16,7 +16,6 @@ setuptools
 torch-directml
 # torch
 # torchvision
-torchscale
 
 # This is includes needed packages: tensorflow, keras
 tensorflow-directml-plugin
@@ -37,9 +36,6 @@ nltk
 # hugging face
 datasets
 transformers
-
-# google
-sentencepiece
 
 # image processing
 pillow
