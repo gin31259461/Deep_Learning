@@ -16,6 +16,8 @@ setuptools
 torch-directml
 # torch
 # torchvision
+pytorch-fid
+pytorch-ignite
 
 # This is includes needed packages: tensorflow, keras
 tensorflow-directml-plugin
