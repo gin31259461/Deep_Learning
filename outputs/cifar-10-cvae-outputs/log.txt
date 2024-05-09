@@ -1,0 +1,12 @@
+# Hyperparameter
+batch_size = 64
+epochs = 20
+latent_size = 20
+learning_rate = 0.001
+training = True
+
+best training loss (average) =
+fid (after finish training) =
+
+training 1
+-------------------------------------------------
