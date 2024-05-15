@@ -31,7 +31,34 @@ weight_decay = 0
 embedding_dim = 10
 
 best training loss (average) = 1750.3073
-fid (after finish training) = 100.754005
+fid (after finish training) = 89.947952
 
 training 3
+-------------------------------------------------
+# Hyperparameter
+batch_size = 64
+epochs = 100
+latent_dim = 50
+learning_rate = 1e-4
+weight_decay = 0
+embedding_dim = 5
+
+best training loss (average) = 14.5802
+fid (after finish training) = 103.338943
+
+training 4
+-------------------------------------------------
+# Hyperparameter
+batch_size = 64
+epochs = 50
+kld_weight = 0.00025
+latent_dim = 50
+learning_rate = 0.005
+weight_decay = 0
+embedding_dim = 5
+
+best training loss (average) = 13.8977
+fid (after finish training) = 104.347931
+
+training 5
 -------------------------------------------------
