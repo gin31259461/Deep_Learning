@@ -1,0 +1,22 @@
+not use pre-trained vqa model
+
+# Hyperparameter
+
+learning_rate = 5e-5
+epochs = 20
+batch_size = 4
+embedding_dim = 512
+
+test 1
+-------------------------------------------------
+use pre-trained vqa model
+
+# Hyperparameter
+
+learning_rate = 0.0001
+epochs = 5
+batch_size = 64
+embedding_dim = 40
+
+test 2
+-------------------------------------------------
