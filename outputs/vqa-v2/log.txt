@@ -2,21 +2,46 @@ not use pre-trained vqa model
 
 # Hyperparameter
 
-learning_rate = 5e-5
+learning_rate = 0.0001
 epochs = 20
 batch_size = 4
-embedding_dim = 512
+# dataset = "visual7w-gpt"
+dataset = "vqa"
+trained_vqa_model = False
 
-test 1
+embedding_dim = 40  # do not adjust this parameter
+
+time_taken = 63m 31.8s
+loss: 7 ~ 8
+
+training 1
 -------------------------------------------------
 use pre-trained vqa model
 
 # Hyperparameter
 
-learning_rate = 0.0001
-epochs = 5
-batch_size = 64
-embedding_dim = 40
+learning_rate = 5e-5  # 0.00005
+epochs = 10
+batch_size = 4
+# dataset = "visual7w-gpt"
+dataset = "vqa"
+trained_vqa_model = True
 
-test 2
+embedding_dim = 40  # do not adjust this parameter
+
+training 2
+-------------------------------------------------
+use pre-trained vqa model
+
+# Hyperparameter
+
+learning_rate = 5e-5  # 0.00005
+epochs = 10
+batch_size = 4
+dataset = "visual7w-gpt"
+trained_vqa_model = True
+
+embedding_dim = 40  # do not adjust this parameter
+
+training 3
 -------------------------------------------------
